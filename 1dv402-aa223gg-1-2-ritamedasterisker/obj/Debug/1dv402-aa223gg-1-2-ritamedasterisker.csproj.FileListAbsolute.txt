@@ -1,0 +1,9 @@
+c:\users\pvdv66c46e0\documents\visual studio 2013\Projects\1dv402-aa223gg-1-2-ritamedasterisker\1dv402-aa223gg-1-2-ritamedasterisker\bin\Debug\1dv402-aa223gg-1-2-ritamedasterisker.exe.config
+c:\users\pvdv66c46e0\documents\visual studio 2013\Projects\1dv402-aa223gg-1-2-ritamedasterisker\1dv402-aa223gg-1-2-ritamedasterisker\obj\Debug\1dv402-aa223gg-1-2-ritamedasterisker.csprojResolveAssemblyReference.cache
+c:\users\pvdv66c46e0\documents\visual studio 2013\Projects\1dv402-aa223gg-1-2-ritamedasterisker\1dv402-aa223gg-1-2-ritamedasterisker\bin\Debug\1dv402-aa223gg-1-2-ritamedasterisker.exe
+c:\users\pvdv66c46e0\documents\visual studio 2013\Projects\1dv402-aa223gg-1-2-ritamedasterisker\1dv402-aa223gg-1-2-ritamedasterisker\bin\Debug\1dv402-aa223gg-1-2-ritamedasterisker.pdb
+c:\users\pvdv66c46e0\documents\visual studio 2013\Projects\1dv402-aa223gg-1-2-ritamedasterisker\1dv402-aa223gg-1-2-ritamedasterisker\obj\Debug\1dv402-aa223gg-1-2-ritamedasterisker.exe
+c:\users\pvdv66c46e0\documents\visual studio 2013\Projects\1dv402-aa223gg-1-2-ritamedasterisker\1dv402-aa223gg-1-2-ritamedasterisker\obj\Debug\1dv402-aa223gg-1-2-ritamedasterisker.pdb
+C:\Users\PVDV66C46E0\Documents\GitHub\1dv402-aa223gg-1-2-ritamedasterisker\1dv402-aa223gg-1-2-ritamedasterisker\bin\Debug\1dv402-aa223gg-1-2-ritamedasterisker.exe.config
+C:\Users\PVDV66C46E0\Documents\GitHub\1dv402-aa223gg-1-2-ritamedasterisker\1dv402-aa223gg-1-2-ritamedasterisker\obj\Debug\1dv402-aa223gg-1-2-ritamedasterisker.exe
+C:\Users\PVDV66C46E0\Documents\GitHub\1dv402-aa223gg-1-2-ritamedasterisker\1dv402-aa223gg-1-2-ritamedasterisker\obj\Debug\1dv402-aa223gg-1-2-ritamedasterisker.pdb
